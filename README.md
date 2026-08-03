@@ -4,9 +4,9 @@ O contexto desse caderno é ser um apoio para qualquer pessoa que deseja começa
 O objetivo do caderno é ensinar sobre os principais investimentos em Renda Fixa e ensinar o que é preciso saber para começar a investir.
 
 Curadoria de Fontes
-https://www.youtube.com/watch?v=R3LqS7Y5eQc 
-https://edu.b3.com.br/w/renda-fixa-alem-do-tesouro-direto
-https://www.youtube.com/watch?v=8p_hSny6348
+https://www.youtube.com/watch?v=R3LqS7Y5eQc; 
+https://edu.b3.com.br/w/renda-fixa-alem-do-tesouro-direto;
+https://www.youtube.com/watch?v=8p_hSny6348;
 https://ric.cps.sp.gov.br/bitstream/123456789/35467/1/cont_2025_1_rocha_analisedasestrategiasdeinvestimento.pdf
 
 
