@@ -21,6 +21,7 @@ um exemplo prático no final
 Agora siga esse mesmo estilo para explicar LCI e LCA.
 Técnica: Passo à passo
 Me explique renda fixa no nível mais básico possível. Depois avance para um nível intermediário e só então para um nível avançado.
+Ao fazer as perguntas obtive boas respostas, pois o notebookLM somente consultou os materiais informados.
 
 Miniguia de Estudo (Entrega Final)
 
@@ -68,6 +69,7 @@ De 361 a 720 dias: 17,5%.
 Acima de 720 dias: 15%.
 
 Além disso, existe o IOF para resgates feitos em menos de 30 dias.
+
 6. Estratégias para Iniciantes (Cenário 2025)
 Em um cenário de juros elevados e inflação, as fontes recomendam que o investidor iniciante foque em:
 Diversificação: Não colocar todo o capital em um único título.
